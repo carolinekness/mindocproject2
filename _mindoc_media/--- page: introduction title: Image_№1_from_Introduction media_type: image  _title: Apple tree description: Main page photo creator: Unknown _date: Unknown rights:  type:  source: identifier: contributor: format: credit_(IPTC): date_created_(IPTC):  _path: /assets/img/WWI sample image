@@ -1,0 +1,35 @@
+---
+page: source
+title: WWI_image
+media_type: image
+
+_title: Destroy this Mad Brute
+description: Main page photo
+creator: Unknown
+_date: Unknown
+rights: 
+type: 
+source:
+identifier:
+contributor:
+format:
+credit_(IPTC):
+date_created_(IPTC):
+
+_path: /assets/img/wwi_image_example.jpg 
+order: '03'
+layout: image_description
+---
+
+_title: WWI
+description: Main page photo
+creator: Unknown
+_date: Unknown
+rights: 
+type: 
+source:
+identifier:
+contributor:
+format:
+credit_(IPTC):
+date_created_(IPTC):
